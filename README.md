@@ -1,6 +1,7 @@
 ## SG2HOI
 This repository is for our paper [Exploiting Scene Graphs for Human-Object Interaction Detection](https://arxiv.org/pdf/2108.08584) accepted by ICCV 2021.
-![image]()
+
+![image](https://github.com/ht014/SG2HOI/blob/main/framework.png)
 ## Installation
 #### Pytorch 1.7.1 
 ```
